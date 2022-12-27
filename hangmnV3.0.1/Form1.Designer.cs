@@ -96,7 +96,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(278, 101);
             this.button2.TabIndex = 2;
-            this.button2.Text = "Tahmin";
+            this.button2.Text = "Harf Tara";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -195,9 +195,9 @@
             this.label10.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label10.Location = new System.Drawing.Point(77, 231);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(152, 32);
+            this.label10.Size = new System.Drawing.Size(175, 32);
             this.label10.TabIndex = 18;
-            this.label10.Text = "TAHMİNİNİZ:";
+            this.label10.Text = "Harf Tahmin Et:";
             // 
             // pictureBox8
             // 
