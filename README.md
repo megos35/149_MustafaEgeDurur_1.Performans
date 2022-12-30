@@ -1,5 +1,7 @@
 # 149_MustafaEgeDurur_1.Performans
 hangman 3.0.1 (beta)
+
+
 //Oynamak İçin//
 İlk olarak "kelime üret butonuna bas . 3 kelimeden bir tanesi çıkacaktır
 [ "Kalem" kalimesini çalıştıramadım:( ] .Sonra ise bir harf dene , zaten bilemez isen adam yavaş yavaş ortaya çıkacaktır
